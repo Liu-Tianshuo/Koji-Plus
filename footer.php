@@ -27,7 +27,7 @@
 				<p class="credits">
 					<?php
 					/* Translators: $s = name of the theme developer */
-					printf( _x( 'Theme by %s', 'Translators: $s = name of the theme developer', 'koji' ), '<a href="https://andersnoren.se">' . __( 'Anders Norén', 'koji' ) . '</a>' ); ?>
+                    printf('Powered by <a href="https://wordpress.org/" target="_blank">WordPress</a><br>Theme by <a href="https://wordpress.org/themes/koji/" target="_blank">Koji</a>'); ?>
 				</p><!-- .credits -->
 
 			</footer><!-- #site-footer -->
