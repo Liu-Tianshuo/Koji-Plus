@@ -8,7 +8,6 @@ $html_class = is_admin_bar_showing() ? ' showing-admin-bar' : ''; ?>
 <html class="no-js<?php echo $html_class; ?>" <?php language_attributes(); ?>>
 
 	<head>
-		<base target="_blank" />
 
 		<meta http-equiv="content-type" content="<?php bloginfo( 'html_type' ); ?>" charset="<?php bloginfo( 'charset' ); ?>" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
